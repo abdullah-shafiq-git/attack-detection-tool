@@ -1,0 +1,6 @@
+INFO:root:Phishing email sent to user1 at 2025-08-26 12:00 PM
+ERROR:root:Brute force attack on IP 192.168.1.200, 50 attempts
+WARNING:root:Unusual data transfer at 12:15 PM
+INFO:root:Suspicious login from IP 10.0.0.0 at 12:20 PM
+INFO:root:Suspicious login from IP 10.0.0.1 at 12:20 PM
+INFO:root:Suspicious login from IP 10.0.0.2 at 12:20 PM
